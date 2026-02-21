@@ -29,7 +29,13 @@ O foco não está apenas em utilizar bibliotecas, mas em **dominar**:
 - ✅ **Técnicas de otimização**
 - ✅ **Validação estatística**
 
-> A proposta é construir uma base técnica profunda e aplicada ao contexto financeiro e corporativo.
+
+
+### 🎯 Propósito
+
+Estabelecer uma base sólida de conhecimento não apenas das ferramentas, mas principalmente dos **conceitos e fundamentos** que sustentam a Ciência de Dados. O objetivo é dominar os cálculos subjacentes para ir além do uso superficial de bibliotecas, com **ênfase em aplicações de auditoria** e validação estatística rigorosa.
+
+
 
 ---
 
