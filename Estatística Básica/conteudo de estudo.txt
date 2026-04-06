@@ -1,0 +1,5 @@
+1 Variáveis aleatórias contínuas e discretas
+2 Função densidade de probabilidade e distribuição acumulada
+3 Propriedades de distribuições: médias, medianas, quartis, moda, variância, etc.
+4 Testes de hipóteses
+5 Principais distribuições: Normal, Bernoulli, Binomial, Uniforme, Poisson, Geométrica
