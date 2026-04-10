@@ -1,0 +1,124 @@
+MACHINE LEARNING CASES WITH DATASETS (KAGGLE)
+
+==================================== 1. REGRESSÃO LOGÍSTICA
+==================================== Dataset: Give Me Some Credit
+https://www.kaggle.com/c/GiveMeSomeCredit
+
+Case 1: Prever inadimplência (SeriousDlqin2yrs) Esperado: AUC > 0.75,
+interpretação de coeficientes
+
+Case 2: Ajuste de threshold (0.3, 0.5, 0.7) Esperado: trade-off
+precision vs recall
+
+Case 3: Multicolinearidade Esperado: estabilidade do modelo
+
+Case 4: Comparação com árvore Esperado: diferenças entre modelos
+
+==================================== 2. ÁRVORE DE DECISÃO
+==================================== Dataset: Telco Customer Churn
+https://www.kaggle.com/blastchar/telco-customer-churn
+
+Case 1: Prever churn Esperado: interpretação de regras
+
+Case 2: Overfitting (max_depth) Esperado: diferença treino vs teste
+
+Case 3: Feature importance Esperado: variáveis relevantes
+
+Case 4: Comparação com logística
+
+==================================== 3. RANDOM FOREST
+==================================== Dataset: Home Credit Default Risk
+https://www.kaggle.com/c/home-credit-default-risk
+
+Case 1: Inadimplência Esperado: melhor que árvore
+
+Case 2: Tunagem (n_estimators, max_depth)
+
+Case 3: Feature importance
+
+Case 4: Comparação com boosting
+
+==================================== 4. BOOSTING
+==================================== Dataset: Santander Customer
+Transaction Prediction
+https://www.kaggle.com/c/santander-customer-transaction-prediction
+
+Case 1: Classificação Esperado: alto AUC
+
+Case 2: Learning rate
+
+Case 3: Overfitting (early stopping)
+
+Case 4: Comparação com RF
+
+==================================== 5. KNN
+==================================== Dataset: Iris
+https://www.kaggle.com/datasets/uciml/iris
+
+Case 1: Classificação básica
+
+Case 2: Escolha do K
+
+Case 3: Normalização
+
+Case 4: Alta dimensionalidade
+
+==================================== 6. NAIVE BAYES
+==================================== Dataset: SMS Spam Collection
+https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset
+
+Case 1: Classificação de spam
+
+Case 2: Bernoulli vs Multinomial
+
+Case 3: Comparação com logística
+
+Case 4: TF-IDF
+
+==================================== 7. SVM
+==================================== Dataset: Breast Cancer Wisconsin
+https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data
+
+Case 1: Classificação
+
+Case 2: Kernel (linear vs RBF)
+
+Case 3: Tunagem (C, gamma)
+
+Case 4: Comparação com RF
+
+==================================== 8. REDES NEURAIS
+==================================== Dataset: MNIST Digit Recognizer
+https://www.kaggle.com/c/digit-recognizer
+
+Case 1: Classificação de dígitos
+
+Case 2: Arquitetura
+
+Case 3: Overfitting (dropout)
+
+Case 4: Comparação com modelos clássicos
+
+==================================== 9. REGRESSÃO
+==================================== Dataset: House Prices
+https://www.kaggle.com/c/house-prices-advanced-regression-techniques
+
+Case 1: Regressão linear
+
+Case 2: Ridge vs Lasso
+
+Case 3: Feature engineering
+
+Case 4: Análise de resíduos
+
+==================================== 10. CLUSTERING
+==================================== Dataset: Mall Customer Segmentation
+https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial-in-python
+
+Case 1: K-means
+
+Case 2: Escolha de K (elbow, silhueta)
+
+Case 3: DBSCAN
+
+Case 4: GMM
